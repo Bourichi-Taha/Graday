@@ -1,0 +1,19 @@
+.progbar {
+    height: 8px;
+    width: 100%;
+    border-radius: 4px;
+    background: rgb(151, 151, 151);
+    position: relative;
+
+    .linear {
+        position: absolute;
+        border-radius: 4px;
+
+        left: 0;
+        top: 0;
+        height: 8px;
+        width: 10%;
+        background: var(--primary-dark-color);
+        transition: all .3 ease-in-out;
+    }
+}

@@ -1,0 +1,11 @@
+.login , .register{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    // background: #ffffff;
+    background: rgb(119, 186, 226);
+    background: linear-gradient(0deg, rgba(119, 186, 226, 1) 0%, rgba(84, 150, 255, 1) 38%, rgba(41, 93, 204, 1) 100%);
+
+}

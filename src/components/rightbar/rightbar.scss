@@ -1,0 +1,50 @@
+.rightbar {
+    position: fixed;
+    top: 150px; //25+70+55
+    right: 85px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 63vh;
+    background: white;
+    border-radius: 20px;
+
+    .container-right {
+        height: 100%;
+        width: 100%;
+        // padding: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .right{
+            height: 100%;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            .img-flex{
+                width: 100%;
+                height: 70%;
+                display: flex;
+                align-items: flex-end;
+                justify-content: center;
+                img{
+                    width: 20%;
+                    &.img-big{
+                        width: 40%;
+                    }
+                }
+
+                
+            }
+            a{
+                margin-top: 60px;
+                text-decoration: none;
+                color: var(--primary-dark-color);
+            }
+        }
+        
+    }
+}
