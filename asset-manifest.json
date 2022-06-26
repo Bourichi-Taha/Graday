@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.927a4a6b.css",
+    "main.js": "/static/js/main.d135f9cb.js",
+    "static/js/937.b83e2b23.chunk.js": "/static/js/937.b83e2b23.chunk.js",
+    "static/media/login-img-1.png": "/static/media/login-img-1.ce547a73858ca6d12334.png",
+    "static/media/Leaves.png": "/static/media/Leaves.3cce66dc34a0176a952a.png",
+    "static/media/logo-png.png": "/static/media/logo-png.6e51bc581086ddd9bc02.png",
+    "static/media/rimouski-sb.ttf": "/static/media/rimouski-sb.69f453c6580dcad6b397.ttf",
+    "static/media/b2.png": "/static/media/b2.3c90769d2507e8fa5db3.png",
+    "static/media/Poppins-Bold.otf": "/static/media/Poppins-Bold.b5c5cbad4c3e1e9f4fec.otf",
+    "static/media/Poppins-Regular.otf": "/static/media/Poppins-Regular.1421a94e04ced16b1ffc.otf",
+    "static/media/man-img.png": "/static/media/man-img.a08a1789ec1917905b37.png",
+    "static/media/woman-img.png": "/static/media/woman-img.02fbf969da29f3eb6373.png",
+    "static/media/a1.png": "/static/media/a1.837caf83b3674a4d12e2.png",
+    "static/media/woman-sitting.png": "/static/media/woman-sitting.4c21794c9e5d85fd34aa.png",
+    "static/media/c3.png": "/static/media/c3.2c2a06f8b668e148e0fe.png",
+    "static/media/Books.png": "/static/media/Books.2cf10203a42acc68373d.png",
+    "static/media/blue-img.png": "/static/media/blue-img.9788d8de031b745542dd.png",
+    "static/media/nature-img.png": "/static/media/nature-img.a0b70fd7e32d0cdb5c00.png",
+    "index.html": "/index.html",
+    "main.927a4a6b.css.map": "/static/css/main.927a4a6b.css.map",
+    "main.d135f9cb.js.map": "/static/js/main.d135f9cb.js.map",
+    "937.b83e2b23.chunk.js.map": "/static/js/937.b83e2b23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.927a4a6b.css",
+    "static/js/main.d135f9cb.js"
+  ]
+}
